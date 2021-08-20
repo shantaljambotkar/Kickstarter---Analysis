@@ -1,4 +1,4 @@
-# ** Kickstarting with Excel**
+# Kickstarting with Excel
 ##Overview of Project
 ### **Purpose**
 The purpose of this project is to help Louise identify which months are profitable for Theater and what should she budget for the goals so that she sees more success.
