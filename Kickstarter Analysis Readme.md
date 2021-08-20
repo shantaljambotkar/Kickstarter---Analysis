@@ -25,8 +25,7 @@ The analysis is done for the parent category – theater for all the years.  The
 
 - What can you conclude about the Outcomes based on Goals?
 
-  **Conclusion:**
-
+  Conclusion:
   Its better to have plays with lower goals than with higher goals as the success rate for lower goals is better than that of the higher goals.
 
 - What are some limitations of this dataset?
