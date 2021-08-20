@@ -1,14 +1,16 @@
 # Kickstarting with Excel
-##Overview of Project
+
 ### **Purpose**
 The purpose of this project is to help Louise identify which months are profitable for Theater and what should she budget for the goals so that she sees more success.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
  https://github.com/shantaljambotkar/Kickstarter---Analysis/blob/main/Theater_Outcome_vs_Launh.png
- The analysis is done for the parent category – theater for all the years.  The graph shows that the outcomes of the theater successful and failed are maximum during the months of May and June.  If Louise wants to launch any of the plays it should be in the months of May and June as the success rate is high for those months.
+
+The analysis is done for the parent category – theater for all the years.  The graph shows that the outcomes of the theater successful and failed are maximum during the months of May and June.  If Louise wants to launch any of the plays it should be in the months of May and June as the success rate is high for those months.
 
 ### Analysis of Outcomes Based on Goals
  https://github.com/shantaljambotkar/Kickstarter---Analysis/blob/main/Outcomes_vs_Goals.png
+ 
  The plays with lower goals have succeeded whereas the plays with higher goals have failed.  No campaigns were cancelled. 
 
 ### Challenges and Difficulties Encountered
@@ -16,6 +18,7 @@ The purpose of this project is to help Louise identify which months are profitab
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+   
    The two conclusions:
     1.	May and June are good months for theater as the success rate is higher. 
     2.	There is more success rate than failure in any given month.
