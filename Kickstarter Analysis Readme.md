@@ -30,7 +30,7 @@ The analysis is done for the parent category – theater for all the years.  The
   Its better to have plays with lower goals than with higher goals as the success rate for lower goals is better than that of the higher goals.
 
 - What are some limitations of this dataset?
-  --
+  Not applicable
 
 - What are some other possible tables and/or graphs that we could create?
 
