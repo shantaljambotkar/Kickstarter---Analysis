@@ -31,5 +31,7 @@ The analysis is done for the parent category – theater for all the years.  The
 
 
 - What are some other possible tables and/or graphs that we could create?
+
   https://github.com/shantaljambotkar/Kickstarter---Analysis/blob/main/Country%20Specific%20Sub%20Category%20for%20US.png
+  
 This graph shows that the plays are preferred over other sub categories in the United states 
