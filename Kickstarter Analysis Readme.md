@@ -16,7 +16,7 @@ The purpose of this project is to help Louise identify which months are profitab
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-	The two conclusions:
+   The two conclusions:
     1.	May and June are good months for theater as the success rate is higher. 
     2.	There is more success rate than failure in any given month.
 
