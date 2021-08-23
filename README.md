@@ -7,11 +7,17 @@ The purpose of this project is to help Louise identify which months are profitab
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
  https://github.com/shantaljambotkar/Kickstarter---Analysis/blob/main/Theater_Outcome_vs_Launh.png
+ 
+ ![Theater Outcome vs Launch](Theater_Outcome_vs_Launh.png)
+ 
 
 The analysis is done for the parent category – theater for all the years.  The graph shows that the outcomes of the theater successful and failed are maximum during the months of May and June.  If Louise wants to launch any of the plays it should be in the months of May and June as the success rate is high for those months.
 
 ### Analysis of Outcomes Based on Goals
  https://github.com/shantaljambotkar/Kickstarter---Analysis/blob/main/Outcomes_vs_Goals.png
+ 
+ 
+ ![Outcomes vs Goals](Outcomes_vs_Goals.png)
  
  The plays with lower goals have succeeded whereas the plays with higher goals have failed.  No campaigns were cancelled. 
 
@@ -37,6 +43,9 @@ The analysis is done for the parent category – theater for all the years.  The
 - What are some other possible tables and/or graphs that we could create?
 
   https://github.com/shantaljambotkar/Kickstarter---Analysis/blob/main/Country%20Specific%20Sub%20Category%20for%20US.png
+  
+  ![Country specific sub category](Country%20Specific%20Sub%20Category%20for%20US.png)
+  
   
   This graph shows that the plays are preferred over other sub categories in the United states 
 # Kickstarter---Analysis
